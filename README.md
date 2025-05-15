@@ -5,12 +5,16 @@
 ---
 
 ### 📊 GitHub Stats & Top Languages
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: start; gap: 20px; background: linear-gradient(to right, #87CEEB, #1E90FF); padding: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SkyMinus&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&count_private=true&hide_border=true" alt="SkyMinus's GitHub stats" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SkyMinus&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&bg_color=30,87CEEB,1E90FF&title_color=fff&text_color=fff&count_private=true&hide_border=true"
+         alt="SkyMinus's GitHub stats"
+         style="height: 200px; border: none; display: block;">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SkyMinus&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10" alt="Top Languages" style="display: inline-block;">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SkyMinus&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&bg_color=30,87CEEB,1E90FF&title_color=fff&text_color=fff&role=OWNER,ORGANIZATION_MEMBER&langs_count=10&hide_border=true"
+         alt="Top Languages"
+         style="height: 200px; border: none; display: block;">
   </a>
 </div>
 
