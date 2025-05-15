@@ -1,39 +1,35 @@
-# Hi, I'm [Your Name] 👋
+<div align="center">
 
-Welcome to my GitHub! I'm a passionate developer and researcher focusing on [Your Research Focus / Primary Interest].
+# 👋 Hi, I'm [Your Name]
 
-## About Me
+## 💡 I'm a [Your Role or Interest] | [Your Research Focus]
 
-I'm currently working on:
-- Developing IoT solutions on mobile platforms, based on AOSP.
-- Exploring deep learning models using PyTorch for plant disease recognition.
-- Building robotic projects, including an obstacle-avoiding car with Raspberry Pi and OpenCV.
+---
 
-🔭 I’m currently working on:
-- Enhancing mobile IoT systems for smart devices.
-- Contributing to open-source projects related to [mention your projects].
+### 🚀 What I'm working on:
+- **Mobile IoT**: Developing solutions on Android with AOSP.
+- **Machine Learning**: Building plant disease recognition systems with PyTorch.
+- **Robotics**: Creating obstacle-avoiding cars using Raspberry Pi and OpenCV.
 
-🌱 I’m learning:
-- In-depth machine learning techniques with PyTorch.
-- Advanced Android development and AOSP customizations.
+---
 
-💬 Ask me about:
-- Android development (AOSP).
-- PyTorch and machine learning models.
-- Raspberry Pi and robotics.
+### 🛠️ Tech Stack:
 
-## Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</div>
 
-- **Languages**: Python, Java, C++, SQL
-- **Frameworks & Libraries**: PyTorch, OpenCV, TensorFlow, Flask
-- **Tools**: Git, Docker, VSCode, Android Studio, Jupyter Notebook
-- **Platforms**: Raspberry Pi, AOSP
+---
 
-## Contact Me 📬
+### 💬 Let's Connect:
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
-- Website/Portfolio: [Your Website]
+- [LinkedIn](Your LinkedIn URL)
+- [Email](Your Email)
+- [Portfolio/Website](Your Website)
 
-Feel free to explore my repositories and contribute to my projects. Let's build something amazing together!
-
+</div>
